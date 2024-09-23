@@ -1,2 +1,2 @@
 # CPUScheduler
-Website link : https://bit.ly/3DWKMV6  
+Website link : https://cpu-scheduler-amber.vercel.app/
